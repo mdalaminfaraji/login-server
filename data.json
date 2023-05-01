@@ -1,0 +1,34 @@
+[
+    {
+        "services":[
+            {
+                "id":1,
+                "name":"Web Development",
+                "description":"We offer custom data and client information",
+                "price":1000,
+                "duration":"2 weeks"
+            },
+            {
+                "id":2,
+                "name":"Graphic Design",
+                "description":"We offer graphic information and client information",
+                "price":500,
+                "duration":"1 weeks"
+            },
+            {
+                "id":3,
+                "name":"Content Writing",
+                "description":"We offer content writing data and client information",
+                "price":600,
+                "duration":"3 weeks"
+            },
+            {
+                "id":4,
+                "name":"Software Development",
+                "description":"We offer Software data and client information",
+                "price":2000,
+                "duration":"4 weeks"
+            }
+        ]
+    }
+]
